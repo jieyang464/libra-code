@@ -1,0 +1,106 @@
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for std::vector<std::vector<int, std::allocator<int> >, std::allocator<std::vector<int, std::allocator<int> > > > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for boost::python::detail::container_element<std::vector<std::vector<int, std::allocator<int> >, std::allocator<std::vector<int, std::allocator<int> > > >, unsigned long, boost::python::detail::final_vector_derived_policies<std::vector<std::vector<int, std::allocator<int> >, std::allocator<std::vector<int, std::allocator<int> > > >, false> > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for boost::python::detail::container_element<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, unsigned long, boost::python::detail::final_vector_derived_policies<std::vector<std::vector<float, std::allocator<float> >, std::allocator<std::vector<float, std::allocator<float> > > >, false> > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for std::vector<std::vector<double, std::allocator<double> >, std::allocator<std::vector<double, std::allocator<double> > > > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for boost::python::detail::container_element<std::vector<std::vector<double, std::allocator<double> >, std::allocator<std::vector<double, std::allocator<double> > > >, unsigned long, boost::python::detail::final_vector_derived_policies<std::vector<std::vector<double, std::allocator<double> >, std::allocator<std::vector<double, std::allocator<double> > > >, false> > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for std::vector<std::vector<std::complex<double>, std::allocator<std::complex<double> > >, std::allocator<std::vector<std::complex<double>, std::allocator<std::complex<double> > > > > already registered; second conversion method ignored.
+<frozen importlib._bootstrap>:241: RuntimeWarning: to-Python converter for boost::python::detail::container_element<std::vector<std::vector<std::complex<double>, std::allocator<std::complex<double> > >, std::allocator<std::vector<std::complex<double>, std::allocator<std::complex<double> > > > >, unsigned long, boost::python::detail::final_vector_derived_policies<std::vector<std::vector<std::complex<double>, std::allocator<std::complex<double> > >, std::allocator<std::vector<std::complex<double>, std::allocator<std::complex<double> > > > >, false> > already registered; second conversion method ignored.
+WARNING: Parameter q_width is not defined! in the input parametersUse the default value 
+WARNING: Parameter p_width is not defined! in the input parametersUse the default value 
+WARNING: Parameter direct_init is not defined! in the input parametersUse the default value 
+WARNING: Parameter quantum_dofs is not defined! in the input parametersUse the default value 
+WARNING: Parameter extern_dm is not defined! in the input parametersUse the default value 
+WARNING: Parameter y_aux_var is not defined! in the input parametersUse the default value 
+WARNING: Parameter p_aux_var is not defined! in the input parametersUse the default value 
+WARNING: Parameter m_aux_var is not defined! in the input parametersUse the default value 
+WARNINIG in init_auxiliary_variables:           the init_type = 3 is not known. Allowed values are: [0]
+Active states (adiabatic)
+[1]
+Initial adiabatic populations
+[0.0, 1.0, 0.0, 0.0, 0.0]
+WARNING: Parameter rep_lz is not defined! in the input parametersUse the default value 
+WARNING: Parameter enforce_state_following is not defined! in the input parametersUse the default value 
+WARNING: Parameter enforced_state_index is not defined! in the input parametersUse the default value 
+WARNING: Parameter nac_algo is not defined! in the input parametersUse the default value 
+WARNING: Parameter do_ssy is not defined! in the input parametersUse the default value 
+WARNING: Parameter phase_correction_tol is not defined! in the input parametersUse the default value 
+WARNING: Parameter do_nac_phase_correction is not defined! in the input parametersUse the default value 
+WARNING: Parameter MK_alpha is not defined! in the input parametersUse the default value 
+WARNING: Parameter MK_verbosity is not defined! in the input parametersUse the default value 
+WARNING: Parameter convergence is not defined! in the input parametersUse the default value 
+WARNING: Parameter max_number_attempts is not defined! in the input parametersUse the default value 
+WARNING: Parameter min_probability_reordering is not defined! in the input parametersUse the default value 
+WARNING: Parameter icond is not defined! in the input parametersUse the default value 
+WARNING: Parameter nfiles is not defined! in the input parametersUse the default value 
+WARNING: Parameter thermally_corrected_nbra is not defined! in the input parametersUse the default value 
+WARNING: Parameter total_energy is not defined! in the input parametersUse the default value 
+WARNING: Parameter tcnbra_nu_therm is not defined! in the input parametersUse the default value 
+WARNING: Parameter tcnbra_nhc_size is not defined! in the input parametersUse the default value 
+WARNING: Parameter tcnbra_do_nac_scaling is not defined! in the input parametersUse the default value 
+WARNING: Parameter use_Jasper_Truhlar_criterion is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh2_revision is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh3_size_option is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh3_approach_option is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh3_decomp_option is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh3_dt is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh3_max_steps is not defined! in the input parametersUse the default value 
+WARNING: Parameter fssh3_err_tol is not defined! in the input parametersUse the default value 
+WARNING: Parameter use_qtsh is not defined! in the input parametersUse the default value 
+WARNING: Parameter qtsh_force_option is not defined! in the input parametersUse the default value 
+WARNING: Parameter use_kcrpmd is not defined! in the input parametersUse the default value 
+WARNING: Parameter decoherence_algo is not defined! in the input parametersUse the default value 
+WARNING: Parameter sdm_norm_tolerance is not defined! in the input parametersUse the default value 
+WARNING: Parameter dish_decoherence_event_option is not defined! in the input parametersUse the default value 
+WARNING: Parameter decoherence_times_type is not defined! in the input parametersUse the default value 
+WARNING: Parameter reorg_energy is not defined! in the input parametersUse the default value 
+WARNING: Parameter decoherence_C_param is not defined! in the input parametersUse the default value 
+WARNING: Parameter decoherence_eps_param is not defined! in the input parametersUse the default value 
+WARNING: Parameter dephasing_informed is not defined! in the input parametersUse the default value 
+WARNING: Parameter instantaneous_decoherence_variant is not defined! in the input parametersUse the default value 
+WARNING: Parameter collapse_option is not defined! in the input parametersUse the default value 
+WARNING: Parameter decoherence_rates is not defined! in the input parametersUse the default value 
+WARNING: Parameter ave_gaps is not defined! in the input parametersUse the default value 
+WARNING: Parameter schwartz_decoherence_inv_alpha is not defined! in the input parametersUse the default value 
+WARNING: Parameter schwartz_interaction_width is not defined! in the input parametersUse the default value 
+WARNING: Parameter wp_width is not defined! in the input parametersUse the default value 
+WARNING: Parameter wp_v is not defined! in the input parametersUse the default value 
+WARNING: Parameter coherence_threshold is not defined! in the input parametersUse the default value 
+WARNING: Parameter e_mask is not defined! in the input parametersUse the default value 
+WARNING: Parameter use_xf_force is not defined! in the input parametersUse the default value 
+WARNING: Parameter project_out_aux is not defined! in the input parametersUse the default value 
+WARNING: Parameter tp_algo is not defined! in the input parametersUse the default value 
+WARNING: Parameter use_td_width is not defined! in the input parametersUse the default value 
+WARNING: Parameter entanglement_opt is not defined! in the input parametersUse the default value 
+WARNING: Parameter ETHD3_alpha is not defined! in the input parametersUse the default value 
+WARNING: Parameter ETHD3_beta is not defined! in the input parametersUse the default value 
+WARNING: Parameter Temperature is not defined! in the input parametersUse the default value 
+WARNING: Parameter ensemble is not defined! in the input parametersUse the default value 
+WARNING: Parameter thermostat_params is not defined! in the input parametersUse the default value 
+WARNING: Parameter thermostat_dofs is not defined! in the input parametersUse the default value 
+WARNING: Parameter constrained_dofs is not defined! in the input parametersUse the default value 
+WARNING: Parameter num_electronic_substeps is not defined! in the input parametersUse the default value 
+WARNING: Parameter electronic_integrator is not defined! in the input parametersUse the default value 
+WARNING: Parameter use_compression is not defined! in the input parametersUse the default value 
+WARNING: Parameter compression_level is not defined! in the input parametersUse the default value 
+In mem_saver.save_data_txt()
+data_name =  ['timestep', 'time', 'Epot_ave', 'Ekin_ave', 'Etot_ave']
+keywords =  ['timestep', 'time', 'Epot_ave', 'Ekin_ave', 'Etot_ave']
+keys =  dict_keys(['timestep', 'time', 'Ekin_ave', 'Epot_ave', 'Etot_ave'])
+pyscf plugins found in 
+/home/jieyang/apps/pyscf/pyscf
+When PYTHONPATH is set, it is recommended to load these plugins through the environment variable PYSCF_EXT_PATH
+In cctor: lvl = 1 der_lvl = 2
+ step= 0
+In mem_saver.save_data()
+data_name =  ['timestep', 'time', 'Epot_ave', 'Ekin_ave', 'Etot_ave']
+keywords =  ['timestep', 'time', 'Epot_ave', 'Ekin_ave', 'Etot_ave']
+keys =  dict_keys(['timestep', 'time', 'Ekin_ave', 'Epot_ave', 'Etot_ave'])
+Saving the dataset named timestep/data
+Saving the dataset named time/data
+Saving the dataset named Epot_ave/data
+Saving the dataset named Ekin_ave/data
+Saving the dataset named Etot_ave/data
+LiF SA-CASSCF/FSSH test run completed.
+Output directory: lif_casscf_fssh
+ELAPSED:0:41.00 EXIT:0

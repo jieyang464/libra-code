@@ -5,4 +5,5 @@
    test_verlet_ens.plt - use this to plot the output using gnuplot
 
    test.py   - just a testbed to figure out how PySCF works
+   example_lif_casscf_fssh.py - LiF SA-CASSCF (5 states) + Libra FSSH smoke test
 
